@@ -1,6 +1,3 @@
 # weather-app
-weather forcasting which show the weather as geolocation and city search with add feature wind speed, humidityity,and temprature with use of
-1)jQuery
-2)html
-3)css
-4)bootstrap
+Weather forecasting which show the weather as per geolocation and city search with added feature wind speed, humidity and temperature with use of platform include google API and openweathermap API built on jQuery, HTML, CSS, and Bootstrap
+
